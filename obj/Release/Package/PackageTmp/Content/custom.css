@@ -1,0 +1,61 @@
+﻿.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: #EFAC30;
+    font-family: 'Eras ITC';
+    font-size: xx-large;
+    font-weight: 800;
+    background-image: url(../Images/edited_farmers_markets_petaluma_by_sierra_downey_sonoma_county_1920x968.jpg);
+    background-position: center;
+    background-size: contain;
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: x-large;
+    font-weight: 800;
+    font-family: 'Eras Bold ITC';
+    color: #EFAC30;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2%;
+    text-align: center;
+}
+
+
+
+
+.h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+.navbar-inverse {
+    background-color: #ADE960;
+    border-color: #F6F8FA;
+    font-family: 'Eras ITC';
+    font-size: large;
+}
+
+.inner{
+    overflow: hidden;
+}
+
+.inner img{
+    transition: all 1.5s ease;
+}
+
+
+.inner:hover img{
+    transform: scale(1.5);
+}
